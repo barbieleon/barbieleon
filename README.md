@@ -1,6 +1,6 @@
 ### 💻 Hi there 👋
 
-![alt text](https://i.pinimg.com/originals/49/d0/0f/49d00f364836f3adb3c58104cbcd76c0.jpg)
+![alt text](https://images.hdqwalls.com/download/404-error-cyberpuk-girl-9x-1600x900.jpg)
 - 🔭 I’m currently working on some scripts
 - 👩🏻‍💻 I’m currently learning Reverse Engineering, Assembly languange, Python and Hacking.
 - 📫 How to reach me: ...
