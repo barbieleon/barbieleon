@@ -2,7 +2,7 @@
 
 ![alt text](https://images.hdqwalls.com/download/404-error-cyberpuk-girl-9x-1600x900.jpg)
 - 🔧 I’m currently working on some scripts and focused in CTFs
-- 👩🏻‍💻 Currently learning Reverse Engineering, Assembly languange x86/64, Python and Hacking
+- 👩🏻‍💻 I'm currently learning Reverse Engineering, Assembly languange x86/64, Python and Hacking
 - 📫 How to reach me: ...
 - 🔱 Pronouns: She / Her
 - 🧛‍♀️ Fun fact: I'm a vampire
