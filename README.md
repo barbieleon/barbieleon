@@ -1,7 +1,7 @@
 ### 💻 Hi there 🍕
 
 ![alt text](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
-- 🔧 I’m currently working on some scripts, projects and focused in CTFs
+- 🔧 I’m currently working on some scripts, projects and focused in CTFs & Wargames
 - 👩🏻‍💻 I'm currently learning Reverse Engineering, Assembly languange x86/64, Python and Hacking
 - 📫 How to reach me: e-mail
 - 🔱 Pronouns: She / Her
