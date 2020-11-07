@@ -1,6 +1,8 @@
 <img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif">
 
-<body style="background-color:powderblue;">
+<style>
+ background-color: black; 
+</style>
 
 # 💻 Hi there 🍕
 ![header](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
