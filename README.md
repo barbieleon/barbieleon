@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=000000&section=header&animation=fadein&text=💻WELC0ME🍕&fontColor=440d0f)
+# 💻Hi there🍕
 ![image](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
 
 ![visitorbadge](https://visitor-badge.laobi.icu/badge?page_id=helenac0ldheart.visitor-badge)
@@ -13,7 +13,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=helenac0ldheart&show_icons=true&theme=dracula&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b)
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=000000&section=footer&animation=fadein&text=https://i.pinimg.com/originals/ce/13/d7/ce13d7a6ce5dc56ce45059972b77299a.gif&fontColor=440d0f)
 <!--
 **HelenaC0ldHeart/HelenaC0ldheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
