@@ -1,4 +1,4 @@
-### 💻 Hi there 🍕
+### 💻 Hi there 🍕 ![batimage](https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif)
 
 ![header](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me: e-mail
 - 🔱 Pronouns: She / Her
 - 🖤 Likes: Technology, Space, music and Art
-- 🧛‍♀️ Fun fact: I'm a vampire       ![batimage](https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif)
+- 🧛‍♀️ Fun fact: I'm a vampire
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=helenac0ldheart&show_icons=true&theme=dracula&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b)
 
