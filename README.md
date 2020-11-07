@@ -9,7 +9,7 @@
 - 🖤 Likes: Technology, Space, music and Art
 - 🧛‍♀️ Fun fact: I'm a vampire
 
-https://visitor-badge.laobi.icu/badge?page_id=helenac0ldheart.visitor-badge
+![visitorbadge](https://visitor-badge.laobi.icu/badge?page_id=helenac0ldheart.visitor-badge)
 
 <!--
 **HelenaC0ldHeart/HelenaC0ldheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
