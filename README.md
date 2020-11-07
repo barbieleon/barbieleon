@@ -1,6 +1,6 @@
 # 💻 Hi there 🍕
 
-<img "src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif">
+<img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif" align="left">
 
 ![header](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
 
