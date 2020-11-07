@@ -8,7 +8,8 @@
 - 🔱 Pronouns: She / Her
 - 🖤 Likes: Technology, Space, music and Art
 - 🧛‍♀️ Fun fact: I'm a vampire
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
+https://visitor-badge.laobi.icu/badge?page_id=helenac0ldheart.visitor-badge
 
 <!--
 **HelenaC0ldHeart/HelenaC0ldheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
