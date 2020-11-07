@@ -1,7 +1,8 @@
+<img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif">
+
+<body style="background-color:powderblue;">
+
 # 💻 Hi there 🍕
-
-<img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif" align="right">
-
 ![header](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
 
 ![visitorbadge](https://visitor-badge.laobi.icu/badge?page_id=helenac0ldheart.visitor-badge)
