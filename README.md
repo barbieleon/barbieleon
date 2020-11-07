@@ -12,7 +12,7 @@
 - 🖤 Likes: Technology, Space, music and Art
 - 🧛‍♀️ Fun fact: I'm a vampire
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=helenac0ldheart&show_icons=true&theme=dracula?bg_color=#0D0208)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=helenac0ldheart&show_icons=true&theme=dracula&bg_color=#0D0208)
 
 <!--
 **HelenaC0ldHeart/HelenaC0ldheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
