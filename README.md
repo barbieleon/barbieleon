@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&section=header&animation=fadein&text=WELC0ME)
+![header](https://capsule-render.vercel.app/api?type=wave&auto=gradient&section=header&animation=fadein&text=WELC0ME)
 
 # 💻 Hi there 🍕
 ![image](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
