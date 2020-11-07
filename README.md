@@ -13,7 +13,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=helenac0ldheart&show_icons=true&theme=dracula&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b)
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=191716&section=footer&animation=fadein&text=WELC0ME)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=000000&section=footer&animation=fadein&text=WELC0ME&fontColor=440d0f)
 <!--
 **HelenaC0ldHeart/HelenaC0ldheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
