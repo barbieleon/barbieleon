@@ -1,8 +1,4 @@
-<img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bat-gif.gif">
-
-<style>
- background-color: black; 
-</style>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 # 💻 Hi there 🍕
 ![header](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
