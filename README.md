@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenac0ldheart&layout=compact&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b&langs_count=10&theme=dracula)](https://github.com/helenac0ldheart/github-readme-stats)
 
 ## Skills
-<img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/Kali%20cropped.png" heigh="150" width="auto"><img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/Python_logo_and_wordmark.svg" height="auto" width="150">
+<img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/Kali%20cropped.png" heigh="20" width="auto"><img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/Python_logo_and_wordmark.svg" height="auto" width="150">
 
 <!--
 **HelenaC0ldHeart/HelenaC0ldheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
