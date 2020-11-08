@@ -13,9 +13,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=helenac0ldheart&show_icons=true&theme=dracula&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b)
 
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helenac0ldheart&layout=compact&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b)](https://github.com/helenac0ldheart/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenac0ldheart&layout=compact&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b)](https://github.com/helenac0ldheart/github-readme-stats)
 ## Skills
 
 <!--
