@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenac0ldheart&layout=compact&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b&langs_count=10&theme=dracula)](https://github.com/helenac0ldheart/github-readme-stats)
 
 ## Skills
-<img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/Kali%20cropped.png" height="50" width="auto"><img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/Python_logo_and_wordmark.svg" height="auto" width="150"><img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/bash%20script.png" height="50" width="auto"><img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/C_Sharp_logo.svg" height="50" width="auto"><img src="https://github.com/HelenaC0ldHeart/readmeImages/blob/main/480px-JavaScript-logo.png" height="50" width="auto">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <!--
 **HelenaC0ldHeart/HelenaC0ldheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
