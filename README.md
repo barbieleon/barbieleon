@@ -4,10 +4,10 @@
 ![visitorbadge](https://visitor-badge.laobi.icu/badge?page_id=helenac0ldheart.visitor-badge)
 
 ## About
-- 🔧 I’m currently working on some scripts, projects and focused in CTFs & Wargames
-- 👩🏻‍💻 Currently learning Reverse Engineering, Assembly languange x86/64, Python and Hacking
-- 🛠️ Currently working with C#, Angular & Typescript
-- 📫 How to reach me: e-mail
+- 🔧 My name's Helena, I'm a Front End Developer. I love to code, design, enhance web applications and I also love acessibility as it' not only helpful but it also allows people with disabilities to be a part of the tech world. 🏳️‍🌈 🏳️‍⚧️
+- 👩🏻‍💻 Currently learning JavaScript & React
+- 🛠️ Currently working as a Security Engineer
+- 📫 How to reach me: unknown
 - 🔱 Pronouns: She / Her
 - 🖤 Likes: Technology, Space, music and Art
 - 🧛‍♀️ Fun fact: I'm a vampire
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenac0ldheart&layout=compact&bg_color=DEG,440d0f,000000&title_color=ffd1dc&text_color=84596b&icon_color=84596b&langs_count=10&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/helenac0ldheart/github-readme-stats)
 
 ## Skills
-<img src="https://img.shields.io/static/v1?label=OS&message=Linux&color=black&style=for-the-badge&logo=linux"/> <img src="https://img.shields.io/static/v1?label=&message=bash&color=black&style=for-the-badge&logo=gnu%20bash"/><img src="https://img.shields.io/static/v1?label=&message=javascript&color=black&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=&message=html5&color=black&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&message=css3&color=blue&style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/static/v1?label=&message=typescript&color=blue&style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/static/v1?label=OS&message=Linux&color=black&style=for-the-badge&logo=linux"/> <img src="https://img.shields.io/static/v1?label=&message=bash&color=black&style=for-the-badge&logo=gnu%20bash"/> <img src="https://img.shields.io/static/v1?label=&message=javascript&color=black&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=&message=html5&color=black&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&message=css3&color=blue&style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/static/v1?label=&message=typescript&color=blue&style=for-the-badge&logo=typescript"/>
 
 
 <!--
