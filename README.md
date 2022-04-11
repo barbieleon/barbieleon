@@ -7,7 +7,7 @@
 ### My name's Helena, I'm a Front End Developer. I love to code, design, enhance web applications and I also love acessibility as it' not only helpful but it also allows people with disabilities to be a part of the tech world. 🏳️‍🌈 🏳️‍⚧️
 
 
-- 👩🏻‍💻 Currently learning JavaScript & React
+- 👩🏻‍💻 Currently learning JavaScript, Python & React
 - 🛠️ Currently working as a Security Engineer
 - 📫 How to reach me: unknown
 - 🔱 Pronouns: She / Her
