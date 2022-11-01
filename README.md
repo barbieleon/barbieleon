@@ -1,7 +1,4 @@
 # 💻Hi there🍕
-![image](https://github.com/HelenaC0ldHeart/-My-DarkWebsite-.github.io/blob/master/img/404error_Girl%20(1).png)
-
-![visitorbadge](https://visitor-badge.laobi.icu/badge?page_id=helenac0ldheart.visitor-badge)
 
 ## About
 ### My name's Helena, I'm a Application Security Engineer, I love to code, design, enhance web applications and I also love acessibility as it' not only helpful but it also allows people with disabilities to be a part of the tech world. 🏳️‍🌈 🏳️‍⚧️
