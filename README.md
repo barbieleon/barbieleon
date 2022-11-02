@@ -14,10 +14,7 @@ My name's Helena, I'm a Application Security Engineer, I love to code, design, e
 - 🧛‍♀️ Fun fact: I'm a vampire
 
 ## Stats and Most used languages
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morcegarosa&show_icons=true&theme=dracula&bg_color=DEG,F5DCE0,F8C8DC&title_color=1D1C1A&text_color=1D1C1A&icon_color=84596b&line_height=24.5&hide_border=false)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morcegarosa&layout=compact&bg_color=DEG,F5DCE0,F8C8DC&title_color=1D1C1A&text_color=1D1C1A)](https://github.com/morcegarosa/github-readme-stats)
 
 ## Skills
 
