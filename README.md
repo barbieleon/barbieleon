@@ -1,6 +1,6 @@
 # 💻Hi there🍕
 
-<img align="right" width="300" height="300" src="https://github.com/morcegarosa/readme.md_images/blob/main/gopher.png">
+<img align="right" width="250" height="250" src="https://github.com/morcegarosa/readme.md_images/blob/main/gopher.png">
 
 ## About
 My name's Helena, I'm a Application Security Engineer, I love to code, design, enhance web applications and I also love acessibility as it' not only helpful but it also allows people with disabilities to be a part of the tech world. 🏳️‍🌈 🏳️‍⚧️
