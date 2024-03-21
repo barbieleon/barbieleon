@@ -7,8 +7,8 @@ I'm a Offensive Security Lover.
 Besides loving and enjoying the world of cybersecurity I also love acessibility as it's not only helpful but it also allows people with disabilities to be a part of the tech world. 🏳️‍🌈 🏳️‍⚧️
 
 <br></br>
-- 👩🏻‍💻 Currently learning C and Assembly
-- 🛠️ Currently working as a Security Engineer
+- 👩🏻‍💻 Currently learning C, Assembly & Golang
+- 🛠️ Currently working as a Security Engineer at Nubank
 - 📫 How to reach me: unknown
 - 🔱 Pronouns: She / Her
 - 🖤 Likes: Technology, Space, music and Art
